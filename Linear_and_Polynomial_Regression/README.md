@@ -18,11 +18,17 @@ This project demonstrates the working of Linear Regression and Polynomial Regres
 Demonstrating Linear Regression and Polynomial Regression
 
 ![alt text](image.png)
+
 Linear Regression - California Housing Dataset
+
 Mean Squared Error: 1.2923314440807299
+
 R^2 Score: 0.013795337532284901
 
 ![alt text](image-1.png)
+
 Polynomial Regression - Auto MPG Dataset
+
 Mean Squared Error: 0.7431490557205861
+
 R^2 Score: 0.7505650609469626
